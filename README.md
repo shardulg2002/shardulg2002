@@ -4,7 +4,7 @@ MSc Business Analytics & Artificial Intelligence at Warwick Business School, spe
 
 I build machine learning projects for banking and finance: models that predict what's likely to happen, paired with the decisions that should follow.
 
-**Currently building:** a portfolio site where every project is a vinyl record (coming soon).
+**Portfolio:** [shardul-gupta.vercel.app](https://shardul-gupta.vercel.app), where every project is a vinyl record on the wall.
 
 **Tools:** Python · pandas · scikit-learn · SQL · Tableau · Power BI
 
