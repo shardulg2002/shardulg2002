@@ -6,6 +6,6 @@ I build machine learning projects for banking and finance: models that predict w
 
 **Portfolio:** [shardul-gupta.vercel.app](https://shardul-gupta.vercel.app), where every project is a vinyl record on the wall.
 
-**Tools:** Python · pandas · scikit-learn · SQL · Tableau · Power BI
+**Tools:** Python · pandas · NumPy · scikit-learn · TensorFlow · SQL · Excel · Tableau · Power BI
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/shardul-gupta-2002) · collegeshardul@gmail.com
